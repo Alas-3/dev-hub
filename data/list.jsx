@@ -6,9 +6,7 @@ export const documentationLinks = [
     { name: "Angular", link: "https://angular.io/docs", logoUrl: "https://angular.io/assets/images/logos/angular/angular.png" },
     { name: "Svelte", link: "https://svelte.dev/docs", logoUrl: "https://svelte.dev/svelte-logo-horizontal.svg" },
     { name: "MDN Web Docs", link: "https://developer.mozilla.org/en-US/docs/Web", logoUrl: "https://www.zdnet.com/a/img/resize/55c25cbe57e6c619a67ea3975a7a919d987d66e4/2022/03/01/33b5e401-651b-4108-8fcf-6b6fa5670039/screen-shot-2022-03-01-at-11-24-49-am.png?auto=webp&fit=crop&height=1200&width=1200" },
-    { name: "Chakra UI", link: "https://chakra-ui.com/docs", logoUrl: "https://avatars.githubusercontent.com/u/54212428?s=280&v=4" },
-    { name: "Material-UI", link: "https://mui.com/material-ui/getting-started/overview/", logoUrl: "https://mui.com/static/logo.png" },
-    { name: "Ant Design", link: "https://ant.design/docs/react/introduce", logoUrl: "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" },
+    { name: "W3Schools", link: "https://www.w3schools.com/", logoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" },
   ];
   
   export const uiComponentLibraries = [
@@ -22,6 +20,20 @@ export const documentationLinks = [
     { name: "Semantic UI", link: "https://semantic-ui.com/", logoUrl: "https://semantic-ui.com/images/logo.png" },
     { name: "Flowbite", link: "https://flowbite.com/", logoUrl: "https://flowbite.com/images/logo.svg" },
     { name: "Headless UI", link: "https://headlessui.com/", logoUrl: "https://seeklogo.com/images/H/headless-ui-logo-034B045C5C-seeklogo.com.png" },
+    { name: "Mantine", link: "https://mantine.dev/", logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJWqfPjritCCxs9EbQuN11m9fX27x4ln5nlg&s" },
+    { name: "Aceternity UI", link: "https://ui.aceternity.com/", logoUrl: "https://ui.aceternity.com/_next/image?url=%2Flogo-dark.png&w=128&q=75" },
+    { name: "Radix UI", link: "https://www.radix-ui.com/", logoUrl: "https://logowik.com/content/uploads/images/radix-ui3498.logowik.com.webp" },
+    { name: "Next UI", link: "https://nextui.org/", logoUrl: "https://nextui.org/apple-touch-icon.png" },
+    { name: "Evergreen", link: "https://evergreen.segment.com/", logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzPTAlwRp4RhvoifNttW6ekRAe5QOl6yvOw&s" },
+    { name: "Quasar", link: "https://quasar.dev/", logoUrl: "https://cdn.quasar.dev/logo/svg/quasar-logo.svg" },
+    { name: "Vuetify", link: "https://vuetifyjs.com/en/", logoUrl: "https://cdn.vuetifyjs.com/images/logos/vuetify-logo-light.png" },
+    { name: "PrimeReact", link: "https://primereact.org/", logoUrl: "https://cdn.worldvectorlogo.com/logos/primereact-1.svg" },
+    { name: "React Bootstrap", link: "https://react-bootstrap.github.io/", logoUrl: "https://react-bootstrap.github.io/img/logo.svg" },
+    { name: "Base Web", link: "https://baseweb.design/", logoUrl: "https://baseweb.design/_next/static/media/base-web-white.0593f12d.svg" },
+    { name: "Onsen UI", link: "https://onsen.io/", logoUrl: "https://onsen.io/images/logo/svg/onsenui_banner_white.svg" },
+    { name: "Tails UI", link: "https://www.tailwind-kit.com/components", logoUrl: "https://www.tailwind-kit.com/icons/rocket.svg" },
+    { name: "Fomantic UI", link: "https://fomantic-ui.com/", logoUrl: "https://fomantic-ui.com/images/logo.png" },
+    { name: "UIKit", link: "https://getuikit.com/", logoUrl: "https://getuikit.com/images/uikit-logo.svg" }
   ];
   
   export const iconPacks = [
@@ -33,8 +45,13 @@ export const documentationLinks = [
     { name: "Boxicons", link: "https://boxicons.com/", logoUrl: "https://meta-q.cdn.bubble.io/f1709584202269x639211933716810200/boxicons.svg" },
     { name: "Feather Icons", link: "https://feathericons.com/", logoUrl: "https://avatars.githubusercontent.com/u/29268069?v=4" },
     { name: "Phosphor Icons", link: "https://phosphoricons.com/", logoUrl: "https://phosphoricons.com/favicon-512.png" },
+    { name: "Material Icons", link: "https://material.io/resources/icons", logoUrl: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAArlBMVEVHcEzqQzXvXSsyetoacukZZ9RHlYzqQzXqQzXqQzXrQjWsuSqGkpoCcO4ac+kadOwYaMwXT6kXTKIac+j9vgLqQzX7vAT/vwAac+jqQzX7vAQaceLqQzX8vQIac+gefdsXcO8Ta5APZ04MZS41qk81qU8MZBoHXyg2rFU0qFM0qFM0qFP8vAMZctv7vAR1jKn7vAQAb+4ac+gRaW80qFMac+j8vAMWbagOZWc3rlGHd9V2AAAAOnRSTlMANRE1T2IJ0f/+aiD/////////8sKmdv/otv//92Ov3oX////qdP/////DgVT/7OKuk5j/rp8/UGpHywe09QAAAO9JREFUeAHEzIWJBEEABdE/7m3r7u6af2jXCs0lsIXzoPCrgiCELop1SZQ6CrM8L0rIqrohhDIuaCuxKE0WAGgrZEIISkhsnrmuA3R7EikXXGHfxwGqocKR4BpJqjAcayzR1kgcQlcqyzAZDv3tFKagMyjl1OKIC4n9FF5tizImZnOf5NQhXSxX6/XGs1SSxeV2tdsfDkdv6pAutiuNh5Oz89DhZSXTuE6NhVeLt4ZtHR4qg/ehqf2gPrqpqXoQt5WZ7dVaF09CX1uLb/jTKySS0Wqrcf1vCnwIoZeXwreZfs+m79/gycTcwpJ7wJIsAJILJYrmiQ57AAAAAElFTkSuQmCC" },
+    { name: "Bootstrap Icons", link: "https://icons.getbootstrap.com/", logoUrl: "https://icons.getbootstrap.com/assets/img/favicons/favicon.ico" },
+    { name: "Remix Icon", link: "https://remixicon.com/", logoUrl: "https://remixicon.com/img/logo/light/text.svg" },
+    { name: "Simple Icons", link: "https://simpleicons.org/", logoUrl: "https://avatars.githubusercontent.com/u/29872746?s=200&v=4" },
+    { name: "Iconmonstr", link: "https://iconmonstr.com/", logoUrl: "https://cdns.iconmonstr.com/wp-content/releases/preview/2016/240/iconmonstr-logo-5.png" },
+    { name: "Iconify", link: "https://iconify.design/", logoUrl: "https://www.drupal.org/files/project-images/iconify.png" },
   ];
-  
   export const baasAndSaasPlatforms = [
     { name: "Supabase", link: "https://supabase.com/", logoUrl: "https://logowik.com/content/uploads/images/supabase-icon1721342077.logowik.com.webp" },
     { name: "Firebase", link: "https://firebase.google.com/", logoUrl: "https://cdn.iconscout.com/icon/free/png-256/free-firebase-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-3-pack-logos-icons-2944871.png?f=webp" },
@@ -59,6 +76,10 @@ export const documentationLinks = [
     { name: "Absurd Illustrations", link: "https://absurd.design/", logoUrl: "https://backend-prod.absurd.design/uploads/cls0jamk1000h0tqk82klgw8r.jpg" },
     { name: "Pexels", link: "https://www.pexels.com/", logoUrl: "https://cdn.icon-icons.com/icons2/2749/PNG/512/pexels_apps_platform_icon_176082.png" },
     { name: "Pixabay", link: "https://pixabay.com/", logoUrl: "https://cdn-icons-png.flaticon.com/512/3291/3291666.png" },
+    { name: "LukaszAdam", link: "https://lukaszadam.com/illustrations", logoUrl: "https://lukaszadam.com/icon.svg" },
+    { name: "FreaFaces", link: "https://freefaces.gallery", logoUrl: "https://cdn.prod.website-files.com/63ad770767a7fcd529308e52/63ee62d32a69aa1748922d92_logo-v3.svg" },
+    { name: "Drawkit", link: "https://www.drawkit.com/illustration-types/all", logoUrl: "https://cdn.prod.website-files.com/6364b6fd26e298b0b8b938f5/6364b6fd26e2989baeb93925_drawkit-nav-logo.svg" },
+    { name: "Storytale", link: "https://storytale.io/browse/?isFree=true", logoUrl: "https://cdn.prod.website-files.com/6198a2e43048192ebafec2cc/63d117c7bbeb3a0b68c2e810_oyRzyuz6bEPZVkJuHJUmaYGuon6xXE8pEf-3hNx9wMg.png" },
   ];
   
   export const otherToolsAndResources = [
@@ -67,9 +88,7 @@ export const documentationLinks = [
     { name: "Uiverse", link: "https://uiverse.io/", logoUrl: "https://pbs.twimg.com/profile_images/1716216565090095104/J7r-hsjd_400x400.png" },
     { name: "Loaders CSS", link: "https://connoratherton.com/loaders", logoUrl: "https://static.vecteezy.com/system/resources/thumbnails/006/692/205/small_2x/loading-icon-template-black-color-editable-loading-icon-symbol-flat-illustration-for-graphic-and-web-design-free-vector.jpg" },
     { name: "Lottie Animations", link: "https://lottiefiles.com/", logoUrl: "https://framerusercontent.com/images/GNSzEovtdsVMPtzb9RaUL0QDlZM.svg" },
-    { name: "Heroicons", link: "https://heroicons.com/", logoUrl: "https://s3.amazonaws.com/appforest_uf/f1673952155380x421150545458618200/icon-256x256.png" },
-    { name: "Devicons", link: "https://vorillaz.github.io/devicons/", logoUrl: "https://static-00.iconduck.com/assets.00/devicon-plain-icon-512x487-ihq2f3fx.png" },
-    { name: "Ionicons", link: "https://ionicons.com/", logoUrl: "https://pbs.twimg.com/profile_images/1354140697054609408/SMjDJmYg_400x400.png" },
+    { name: "Framer Motion", link: "https://www.framer.com/motion/", logoUrl: "https://cdn.worldvectorlogo.com/logos/framer-motion.svg" },
     { name: "Animista", link: "https://animista.net/", logoUrl: "https://pbs.twimg.com/profile_images/826500514875572227/uzIuCBWS_400x400.jpg" },
     { name: "TypeScale", link: "https://type-scale.com/", logoUrl: "https://typescale.com/wp-content/themes/typescale/_site/images/logo_header.svg" },
   ];

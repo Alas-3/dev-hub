@@ -36,3 +36,9 @@ main {
     text-wrap: balance;
   }
 }
+
+/* global styles or in your tailwind config */
+.background-gradient {
+  background: linear-gradient(to right, #6ee7b7, #a8b8d6); /* Adjust colors to match your gradient */
+}
+

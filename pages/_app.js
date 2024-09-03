@@ -1,13 +1,10 @@
-// pages/_app.js
 import '../styles/globals.css';
-import Navbar from '../components/Navbar';
 
 function MyApp({ Component, pageProps }) {
   return (
-    <>
-      <Navbar />
+    <div className="bg-gradient-to-r from-purple-700 to-blue-700 min-h-screen">
       <Component {...pageProps} />
-    </>
+    </div>
   );
 }
 

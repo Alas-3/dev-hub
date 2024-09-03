@@ -16,8 +16,9 @@ const ListSection = () => {
     <div className="space-y-8">
       {sections.map((section) => (
         <div key={section.id} id={section.id}>
-          <h2 className="text-2xl font-semibold mb-4">{section.title}</h2>
-          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+          <h2 className="text-2xl text-white font-semibold mb-4">{section.title}</h2>
+          {/* Responsive grid layout for cards */}
+          <div className="grid gap-6 grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
             {section.data.map((item, idx) => (
               <Card key={idx} name={item.name} link={item.link} logoUrl={item.logoUrl} />
             ))}

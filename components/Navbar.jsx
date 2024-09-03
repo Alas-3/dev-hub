@@ -3,7 +3,8 @@ import React from 'react';
 
 const Navbar = ({ toggleSidebar }) => {
   return (
-    <nav className="fixed top-0 left-0 w-full bg-gray-800 text-white flex items-center justify-between p-4 z-50">
+    <nav className="fixed top-0 left-0 w-full bg-gradient-to-r from-purple-700 to-blue-700
+    text-white flex items-center justify-between p-4 z-50">
       {/* Hamburger menu for all screen sizes */}
       <button
         className="p-2 lg:hidden"
