@@ -4,7 +4,7 @@ export const documentationLinks = [
     { name: "Next.js", link: "https://nextjs.org/docs", logoUrl: "https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" },
     { name: "Vue", link: "https://vuejs.org/guide/introduction.html", logoUrl: "https://vuejs.org/images/logo.png" },
     { name: "Angular", link: "https://angular.io/docs", logoUrl: "https://angular.io/assets/images/logos/angular/angular.png" },
-    { name: "Svelte", link: "https://svelte.dev/docs", logoUrl: "https://svelte.dev/svelte-logo-horizontal.svg" },
+    { name: "Svelte", link: "https://svelte.dev/docs", logoUrl: "https://logosandtypes.com/wp-content/uploads/2020/11/Svelte.png" },
     { name: "MDN Web Docs", link: "https://developer.mozilla.org/en-US/docs/Web", logoUrl: "https://www.zdnet.com/a/img/resize/55c25cbe57e6c619a67ea3975a7a919d987d66e4/2022/03/01/33b5e401-651b-4108-8fcf-6b6fa5670039/screen-shot-2022-03-01-at-11-24-49-am.png?auto=webp&fit=crop&height=1200&width=1200" },
     { name: "W3Schools", link: "https://www.w3schools.com/", logoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" },
   ];
@@ -45,9 +45,9 @@ export const documentationLinks = [
     { name: "Boxicons", link: "https://boxicons.com/", logoUrl: "https://meta-q.cdn.bubble.io/f1709584202269x639211933716810200/boxicons.svg" },
     { name: "Feather Icons", link: "https://feathericons.com/", logoUrl: "https://avatars.githubusercontent.com/u/29268069?v=4" },
     { name: "Phosphor Icons", link: "https://phosphoricons.com/", logoUrl: "https://phosphoricons.com/favicon-512.png" },
-    { name: "Material Icons", link: "https://material.io/resources/icons", logoUrl: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAArlBMVEVHcEzqQzXvXSsyetoacukZZ9RHlYzqQzXqQzXqQzXrQjWsuSqGkpoCcO4ac+kadOwYaMwXT6kXTKIac+j9vgLqQzX7vAT/vwAac+jqQzX7vAQaceLqQzX8vQIac+gefdsXcO8Ta5APZ04MZS41qk81qU8MZBoHXyg2rFU0qFM0qFM0qFP8vAMZctv7vAR1jKn7vAQAb+4ac+gRaW80qFMac+j8vAMWbagOZWc3rlGHd9V2AAAAOnRSTlMANRE1T2IJ0f/+aiD/////////8sKmdv/otv//92Ov3oX////qdP/////DgVT/7OKuk5j/rp8/UGpHywe09QAAAO9JREFUeAHEzIWJBEEABdE/7m3r7u6af2jXCs0lsIXzoPCrgiCELop1SZQ6CrM8L0rIqrohhDIuaCuxKE0WAGgrZEIISkhsnrmuA3R7EikXXGHfxwGqocKR4BpJqjAcayzR1kgcQlcqyzAZDv3tFKagMyjl1OKIC4n9FF5tizImZnOf5NQhXSxX6/XGs1SSxeV2tdsfDkdv6pAutiuNh5Oz89DhZSXTuE6NhVeLt4ZtHR4qg/ehqf2gPrqpqXoQt5WZ7dVaF09CX1uLb/jTKySS0Wqrcf1vCnwIoZeXwreZfs+m79/gycTcwpJ7wJIsAJILJYrmiQ57AAAAAElFTkSuQmCC" },
+    { name: "Material Icons", link: "https://material.io/resources/icons", logoUrl: "https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/logo.png" },
     { name: "Bootstrap Icons", link: "https://icons.getbootstrap.com/", logoUrl: "https://icons.getbootstrap.com/assets/img/favicons/favicon.ico" },
-    { name: "Remix Icon", link: "https://remixicon.com/", logoUrl: "https://remixicon.com/img/logo/light/text.svg" },
+    { name: "Remix Icon", link: "https://remixicon.com/", logoUrl: "https://www.bookmarks.design/media/image/remixicon.jpg" },
     { name: "Simple Icons", link: "https://simpleicons.org/", logoUrl: "https://avatars.githubusercontent.com/u/29872746?s=200&v=4" },
     { name: "Iconmonstr", link: "https://iconmonstr.com/", logoUrl: "https://cdns.iconmonstr.com/wp-content/releases/preview/2016/240/iconmonstr-logo-5.png" },
     { name: "Iconify", link: "https://iconify.design/", logoUrl: "https://www.drupal.org/files/project-images/iconify.png" },
@@ -78,7 +78,7 @@ export const documentationLinks = [
     { name: "Pixabay", link: "https://pixabay.com/", logoUrl: "https://cdn-icons-png.flaticon.com/512/3291/3291666.png" },
     { name: "LukaszAdam", link: "https://lukaszadam.com/illustrations", logoUrl: "https://lukaszadam.com/icon.svg" },
     { name: "FreaFaces", link: "https://freefaces.gallery", logoUrl: "https://cdn.prod.website-files.com/63ad770767a7fcd529308e52/63ee62d32a69aa1748922d92_logo-v3.svg" },
-    { name: "Drawkit", link: "https://www.drawkit.com/illustration-types/all", logoUrl: "https://cdn.prod.website-files.com/6364b6fd26e298b0b8b938f5/6364b6fd26e2989baeb93925_drawkit-nav-logo.svg" },
+    { name: "Drawkit", link: "https://www.drawkit.com/illustration-types/all", logoUrl: "https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/drawkit/sHKeOA7SU7fGDdUv3aw0JlhG6yR2" },
     { name: "Storytale", link: "https://storytale.io/browse/?isFree=true", logoUrl: "https://cdn.prod.website-files.com/6198a2e43048192ebafec2cc/63d117c7bbeb3a0b68c2e810_oyRzyuz6bEPZVkJuHJUmaYGuon6xXE8pEf-3hNx9wMg.png" },
   ];
   
